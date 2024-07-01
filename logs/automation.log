@@ -1,0 +1,37 @@
+14:51:36.292 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Naidu\eclipse-workspace\HybridFrameWork-MIS\testng.xml"
+14:51:36.325 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Naidu\eclipse-workspace\HybridFrameWork-MIS\testng.xml] otherwise TestNG may fail or not work as expected.
+14:51:36.581 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Naidu\eclipse-workspace\HybridFrameWork-MIS\testng.xml
+
+14:51:54.324 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Naidu\eclipse-workspace\HybridFrameWork-MIS\testng.xml"
+14:51:54.349 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Naidu\eclipse-workspace\HybridFrameWork-MIS\testng.xml] otherwise TestNG may fail or not work as expected.
+14:51:54.533 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Naidu\eclipse-workspace\HybridFrameWork-MIS\testng.xml
+
+14:53:00.746 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Naidu\eclipse-workspace\HybridFrameWork-MIS\Grouping.xml"
+14:53:00.776 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Naidu\eclipse-workspace\HybridFrameWork-MIS\Grouping.xml] otherwise TestNG may fail or not work as expected.
+14:53:00.976 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Naidu\eclipse-workspace\HybridFrameWork-MIS\Grouping.xml
+
+14:53:13.120 [main] INFO  testCases.TC_003_LogoutTest - **** starting TC_003_UserLogoutTest  *****
+14:53:20.106 [main] INFO  testCases.TC_003_LogoutTest - **** finished TC_003_LogoutTest  *****
+14:54:15.724 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Naidu\eclipse-workspace\HybridFrameWork-MIS\Grouping.xml"
+14:54:15.751 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Naidu\eclipse-workspace\HybridFrameWork-MIS\Grouping.xml] otherwise TestNG may fail or not work as expected.
+14:54:15.952 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Naidu\eclipse-workspace\HybridFrameWork-MIS\Grouping.xml
+
+14:54:23.653 [main] INFO  testCases.TC_003_LogoutTest - **** starting TC_003_UserLogoutTest  *****
+14:54:30.625 [main] INFO  testCases.TC_003_LogoutTest - **** finished TC_003_LogoutTest  *****
+14:09:57.266 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Naidu\eclipse-workspace\HybridFrameWork-MIS\Grouping.xml"
+14:09:57.296 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Naidu\eclipse-workspace\HybridFrameWork-MIS\Grouping.xml] otherwise TestNG may fail or not work as expected.
+14:09:57.606 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Naidu\eclipse-workspace\HybridFrameWork-MIS\Grouping.xml
+
+14:10:02.780 [main] INFO  testCases.TC_003_LogoutTest - **** starting TC_003_UserLogoutTest  *****
+14:10:09.592 [main] INFO  testCases.TC_003_LogoutTest - **** finished TC_003_LogoutTest  *****
+14:10:54.537 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Naidu\eclipse-workspace\HybridFrameWork-MIS\Grouping.xml"
+14:10:54.556 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Naidu\eclipse-workspace\HybridFrameWork-MIS\Grouping.xml] otherwise TestNG may fail or not work as expected.
+14:10:54.781 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Naidu\eclipse-workspace\HybridFrameWork-MIS\Grouping.xml
+
+14:10:58.779 [main] INFO  testCases.TC_002_UserRegisterTest - **** starting TC_002_UserRegisterTest  *****
